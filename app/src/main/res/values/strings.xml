@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="hello">Hello</string>
+    <string name="meanings">Meanings</string>
+    <string name="word">Word: </string>
+    <string name="save_history">search history</string>
+    <string name="history">History</string>
+    <string name="home_page">Home</string>
+    <string name="clear_history">Clear History</string>
+</resources>
